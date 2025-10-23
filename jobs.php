@@ -1,0 +1,1901 @@
+<!DOCTYPE html>
+<html class="html" lang="en-GB">
+
+<!-- Mirrored from nley.in/jobs/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 12 Oct 2025 07:48:28 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Jobs &#8211; ANVI</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
+<link rel="alternate" type="application/rss+xml" title="ANVI, &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="ANVI, &raquo; Comments Feed" href="comments/feed/index.html" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nley.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+
+<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='wp-content/uploads/elementor/css/post-101752.css?ver=1759938613' media='all' />
+<link rel='stylesheet' id='elementor-post-63-css' href='wp-content/uploads/elementor/css/post-630755.css?ver=1759938614' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bh-preloader-style-css' href='wp-content/plugins/bh-custom-preloader/css/style32d4.css?ver=6.8.3' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.mind1c0.css?ver=6.7.2' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='wp-content/themes/oceanwp/assets/css/style.minfb3d.css?ver=4.0.9' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='wp-content/uploads/elementor/css/post-76324.css?ver=1759938615' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='wp-content/plugins/elementor/assets/css/widget-image.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='wp-content/plugins/elementor/assets/css/widget-heading.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='widget-loop-common-css' href='wp-content/plugins/pro-elements/assets/css/widget-loop-common.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='widget-loop-grid-css' href='wp-content/plugins/pro-elements/assets/css/widget-loop-grid.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='wp-content/plugins/elementor/assets/css/widget-icon-list.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='wp-content/plugins/pro-elements/assets/css/widget-form.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='widget-rating-css' href='wp-content/plugins/elementor/assets/css/widget-rating.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='swiper-css' href='wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='wp-content/plugins/elementor/assets/css/widget-spacer.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='elementor-post-1126-css' href='wp-content/uploads/elementor/css/post-1126a3de.css?ver=1760004760' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-stylesa25a.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsivea25a.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-josefinsans-css' href='wp-content/uploads/elementor/google-fonts/css/josefinsansab54.css?ver=1752232969' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='wp-content/uploads/elementor/google-fonts/css/roboto3b22.css?ver=1752232964' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='wp-content/uploads/elementor/google-fonts/css/robotoslabd099.css?ver=1752232977' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-bebasneue-css' href='wp-content/uploads/elementor/google-fonts/css/bebasneue6ebe.css?ver=1752232965' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-inter-css' href='wp-content/uploads/elementor/google-fonts/css/inter4cb1.css?ver=1752232999' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-playfairdisplay-css' href='wp-content/uploads/elementor/google-fonts/css/playfairdisplayfadd.css?ver=1752232982' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsa25a.css?ver=3.5.5' media='all' />
+<script src="wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/1126.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='index55d9.html?p=1126' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embeda12c.json?url=https%3A%2F%2Fnley.in%2Fjobs%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed95d2?url=https%3A%2F%2Fnley.in%2Fjobs%2F&amp;format=xml" />
+
+	<style type="text/css">
+		.preloader{
+			background-color: #fff;
+			opacity: 1;
+		}
+		.double-bounce1, 
+		.double-bounce2 {
+			background-color:#6610f2;
+		}
+		.double-bounce1, 
+		.double-bounce2,
+		.lds-facebook div,
+		.lds-roller div:after,
+		.lds-default div,
+		.lds-spinner div:after{
+			background-color:#6610f2;
+		}
+		.lds-dual-ring:after {
+			border: 5px solid #6610f2;
+			border-color: #6610f2 transparent #6610f2 transparent;
+		}
+		.lds-ring div{
+			border: 6px solid #6610f2;
+			border-color: #6610f2 transparent transparent transparent;
+		}
+		.lds-ripple div {
+			 border: 4px solid #6610f2;
+		}		
+	</style>
+<meta name="cdp-version" content="1.5.0" /><meta name="generator" content="Site Kit by Google 1.158.0" /><meta name="generator" content="Elementor 3.30.3; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://nley.in/wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-270x270.png" />
+		<style id="wp-custom-css">
+			body{background:#f5f5f5;overflow-x:hidden}.restricted-full-width{max-width:1500px !important}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* Colors */body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{border-color:#ffffff}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{border-color:#ffffff}/* OceanWP Style Settings CSS */.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-style:solid}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-width:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-style:solid}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-style:solid}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{border-radius:3px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:3px}/* Header */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* Blog CSS */.ocean-single-post-header ul.meta-item li a:hover{color:#333333}/* Typography */body{font-size:14px;line-height:1.8}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1.4}h1{font-size:23px;line-height:1.4}h2{font-size:20px;line-height:1.4}h3{font-size:18px;line-height:1.4}h4{font-size:17px;line-height:1.4}h5{font-size:14px;line-height:1.4}h6{font-size:15px;line-height:1.4}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-size:32px;line-height:1.4}.page-header .page-subheading{font-size:15px;line-height:1.8}.site-breadcrumbs,.site-breadcrumbs a{font-size:13px;line-height:1.4}#top-bar-content,#top-bar-social-alt{font-size:12px;line-height:1.8}#site-logo a.site-logo-text{font-size:24px;line-height:1.8}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:12px;line-height:1.2;letter-spacing:.6px}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-size:15px;line-height:1.8}.blog-entry.post .blog-entry-header .entry-title a{font-size:24px;line-height:1.4}.ocean-single-post-header .single-post-title{font-size:34px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header ul.meta-item li,.ocean-single-post-header ul.meta-item li a{font-size:13px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-name,.ocean-single-post-header .post-author-name a{font-size:14px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-description{font-size:12px;line-height:1.4;letter-spacing:.6px}.single-post .entry-title{line-height:1.4;letter-spacing:.6px}.single-post ul.meta li,.single-post ul.meta li a{font-size:14px;line-height:1.4;letter-spacing:.6px}.sidebar-box .widget-title,.sidebar-box.widget_block .wp-block-heading{font-size:13px;line-height:1;letter-spacing:1px}#footer-widgets .footer-box .widget-title{font-size:13px;line-height:1;letter-spacing:1px}#footer-bottom #copyright{font-size:12px;line-height:1}#footer-bottom #footer-bottom-menu{font-size:12px;line-height:1}.woocommerce-store-notice.demo_store{line-height:2;letter-spacing:1.5px}.demo_store .woocommerce-store-notice__dismiss-link{line-height:2;letter-spacing:1.5px}.woocommerce ul.products li.product li.title h2,.woocommerce ul.products li.product li.title a{font-size:14px;line-height:1.5}.woocommerce ul.products li.product li.category,.woocommerce ul.products li.product li.category a{font-size:12px;line-height:1}.woocommerce ul.products li.product .price{font-size:18px;line-height:1}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{font-size:12px;line-height:1.5;letter-spacing:1px}.woocommerce ul.products li.owp-woo-cond-notice span,.woocommerce ul.products li.owp-woo-cond-notice a{font-size:16px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:capitalize}.woocommerce div.product .product_title{font-size:24px;line-height:1.4;letter-spacing:.6px}.woocommerce div.product p.price{font-size:36px;line-height:1}.woocommerce .owp-btn-normal .summary form button.button,.woocommerce .owp-btn-big .summary form button.button,.woocommerce .owp-btn-very-big .summary form button.button{font-size:12px;line-height:1.5;letter-spacing:1px;text-transform:uppercase}.woocommerce div.owp-woo-single-cond-notice span,.woocommerce div.owp-woo-single-cond-notice a{font-size:18px;line-height:2;letter-spacing:1.5px;font-weight:600;text-transform:capitalize}
+</style></head>
+
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-1126 wp-embed-responsive wp-theme-oceanwp oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-1126" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+	<?php include __DIR__ . '/includes/header.php'; ?>
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="1126" class="elementor elementor-1126" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-b7e4297 e-flex e-con-boxed e-con e-parent" data-id="b7e4297" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1bf32d7 elementor-absolute elementor-widget elementor-widget-image" data-id="1bf32d7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="375" height="392" src="wp-content/uploads/2025/07/Ellipse-4-1.png" class="attachment-large size-large wp-image-1180" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Ellipse-4-1.png 375w, https://nley.in/wp-content/uploads/2025/07/Ellipse-4-1-287x300.png 287w" sizes="(max-width: 375px) 100vw, 375px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-e160bc9 e-con-full e-flex e-con e-child" data-id="e160bc9" data-element_type="container">
+		<div class="elementor-element elementor-element-815234f e-con-full e-flex e-con e-child" data-id="815234f" data-element_type="container">
+		<div class="elementor-element elementor-element-f605dd2 e-con-full e-flex e-con e-child" data-id="f605dd2" data-element_type="container">
+				<div class="elementor-element elementor-element-4aa1f80 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="4aa1f80" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Step Into Success – Browse Job Openings</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-01cc3d8 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="01cc3d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Discover meaningful opportunities that match your passion, skills, and goals—your next career move starts here.</p>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c1281a9 elementor-absolute elementor-widget elementor-widget-image" data-id="c1281a9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="480" height="467" src="wp-content/uploads/2025/07/Ellipse-5.png" class="attachment-large size-large wp-image-1181" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Ellipse-5.png 480w, https://nley.in/wp-content/uploads/2025/07/Ellipse-5-300x292.png 300w" sizes="(max-width: 480px) 100vw, 480px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-edff165 elementor-absolute elementor-widget elementor-widget-image" data-id="edff165" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="343" height="340" src="wp-content/uploads/2025/07/Ellipse-5-1.png" class="attachment-large size-large wp-image-1224" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Ellipse-5-1.png 343w, https://nley.in/wp-content/uploads/2025/07/Ellipse-5-1-300x297.png 300w, https://nley.in/wp-content/uploads/2025/07/Ellipse-5-1-150x150.png 150w" sizes="(max-width: 343px) 100vw, 343px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-6456229 e-con-full e-flex e-con e-child" data-id="6456229" data-element_type="container">
+				<div class="elementor-element elementor-element-f1109cf elementor-widget elementor-widget-image" data-id="f1109cf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="683" src="wp-content/uploads/2025/07/8ae24845b318f1b44e5c33d46d45423c73416a83-1024x683.jpg" class="attachment-large size-large wp-image-1128" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/8ae24845b318f1b44e5c33d46d45423c73416a83-1024x683.jpg 1024w, https://nley.in/wp-content/uploads/2025/07/8ae24845b318f1b44e5c33d46d45423c73416a83-300x200.jpg 300w, https://nley.in/wp-content/uploads/2025/07/8ae24845b318f1b44e5c33d46d45423c73416a83-768x512.jpg 768w, https://nley.in/wp-content/uploads/2025/07/8ae24845b318f1b44e5c33d46d45423c73416a83.jpg 1128w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2546f80 e-con-full e-flex e-con e-parent" data-id="2546f80" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-6aec2d0 e-con-full e-flex e-con e-child" data-id="6aec2d0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-70b05a7 e-con-full e-flex e-con e-child" data-id="70b05a7" data-element_type="container">
+				<div class="elementor-element elementor-element-333c8c5 elementor-widget elementor-widget-heading" data-id="333c8c5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Trusted by</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ed77815 e-grid e-con-boxed e-con e-child" data-id="ed77815" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-aa9056e e-con-full e-flex e-con e-child" data-id="aa9056e" data-element_type="container">
+				<div class="elementor-element elementor-element-9dcaa7b elementor-widget elementor-widget-image" data-id="9dcaa7b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="329" src="wp-content/uploads/2025/07/Accenture-logo-no-background-1024x329.png" class="attachment-large size-large wp-image-3217" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Accenture-logo-no-background-1024x329.png 1024w, https://nley.in/wp-content/uploads/2025/07/Accenture-logo-no-background-300x97.png 300w, https://nley.in/wp-content/uploads/2025/07/Accenture-logo-no-background-768x247.png 768w, https://nley.in/wp-content/uploads/2025/07/Accenture-logo-no-background-1536x494.png 1536w, https://nley.in/wp-content/uploads/2025/07/Accenture-logo-no-background.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4a1facf e-con-full e-flex e-con e-child" data-id="4a1facf" data-element_type="container">
+				<div class="elementor-element elementor-element-65efad6 elementor-widget elementor-widget-image" data-id="65efad6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="89" src="wp-content/uploads/2025/07/bookmyshow-business-brand-india.webp" class="attachment-large size-large wp-image-3221" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c87137c e-con-full e-flex e-con e-child" data-id="c87137c" data-element_type="container">
+				<div class="elementor-element elementor-element-0ad0134 elementor-widget elementor-widget-image" data-id="0ad0134" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="603" height="93" src="wp-content/uploads/2025/07/Concentrix_logo.svg" class="attachment-large size-large wp-image-3219" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3aa0cdf e-con-full e-flex e-con e-child" data-id="3aa0cdf" data-element_type="container">
+				<div class="elementor-element elementor-element-3c6c2a1 elementor-widget elementor-widget-image" data-id="3c6c2a1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="500" height="176" src="wp-content/uploads/2025/07/Epicenter-Technologies-logo.png" class="attachment-large size-large wp-image-3195" alt="EPICENTER TECHNOLOGIES PRIVATE LIMITED" srcset="https://nley.in/wp-content/uploads/2025/07/Epicenter-Technologies-logo.png 500w, https://nley.in/wp-content/uploads/2025/07/Epicenter-Technologies-logo-300x106.png 300w" sizes="(max-width: 500px) 100vw, 500px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9465e52 e-con-full e-flex e-con e-child" data-id="9465e52" data-element_type="container">
+				<div class="elementor-element elementor-element-79d04da elementor-widget elementor-widget-image" data-id="79d04da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="412" height="123" src="wp-content/uploads/2025/07/FCS-New-Logo.png" class="attachment-large size-large wp-image-3220" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/FCS-New-Logo.png 412w, https://nley.in/wp-content/uploads/2025/07/FCS-New-Logo-300x90.png 300w" sizes="(max-width: 412px) 100vw, 412px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d466907 e-con-full e-flex e-con e-child" data-id="d466907" data-element_type="container">
+				<div class="elementor-element elementor-element-bbe14e2 elementor-widget elementor-widget-image" data-id="bbe14e2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="519" height="97" src="wp-content/uploads/2025/07/Foundever-logo.png" class="attachment-large size-large wp-image-3198" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Foundever-logo.png 519w, https://nley.in/wp-content/uploads/2025/07/Foundever-logo-300x56.png 300w" sizes="(max-width: 519px) 100vw, 519px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-856127d e-con-full e-flex e-con e-child" data-id="856127d" data-element_type="container">
+				<div class="elementor-element elementor-element-b5693f1 elementor-widget elementor-widget-image" data-id="b5693f1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="368" src="wp-content/uploads/2025/07/Gebbs-Official-logo.jpg" class="attachment-large size-large wp-image-3199" alt="Gebbs Healthcare Solutions" srcset="https://nley.in/wp-content/uploads/2025/07/Gebbs-Official-logo.jpeg 700w, https://nley.in/wp-content/uploads/2025/07/Gebbs-Official-logo-300x158.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-287cda3 e-con-full e-flex e-con e-child" data-id="287cda3" data-element_type="container">
+				<div class="elementor-element elementor-element-b9e40a4 elementor-widget elementor-widget-image" data-id="b9e40a4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="177" src="wp-content/uploads/2025/07/HDFC_Bank_Logo-1024x177.png" class="attachment-large size-large wp-image-3200" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/HDFC_Bank_Logo-1024x177.png 1024w, https://nley.in/wp-content/uploads/2025/07/HDFC_Bank_Logo-300x52.png 300w, https://nley.in/wp-content/uploads/2025/07/HDFC_Bank_Logo-768x133.png 768w, https://nley.in/wp-content/uploads/2025/07/HDFC_Bank_Logo-1536x266.png 1536w, https://nley.in/wp-content/uploads/2025/07/HDFC_Bank_Logo-2048x354.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-85b1442 e-con-full e-flex e-con e-child" data-id="85b1442" data-element_type="container">
+				<div class="elementor-element elementor-element-abc69f2 elementor-widget elementor-widget-image" data-id="abc69f2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="568" src="wp-content/uploads/2025/07/HEXAWARE-1024x568.png" class="attachment-large size-large wp-image-3222" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/HEXAWARE-1024x568.png 1024w, https://nley.in/wp-content/uploads/2025/07/HEXAWARE-300x166.png 300w, https://nley.in/wp-content/uploads/2025/07/HEXAWARE-768x426.png 768w, https://nley.in/wp-content/uploads/2025/07/HEXAWARE.png 1487w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e0da899 e-con-full e-flex e-con e-child" data-id="e0da899" data-element_type="container">
+				<div class="elementor-element elementor-element-bd9329e elementor-widget elementor-widget-image" data-id="bd9329e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="200" height="200" src="wp-content/uploads/2025/07/hopscotch_typeface.webp" class="attachment-large size-large wp-image-3223" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/hopscotch_typeface.webp 200w, https://nley.in/wp-content/uploads/2025/07/hopscotch_typeface-150x150.webp 150w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-73b04a5 e-con-full e-flex e-con e-child" data-id="73b04a5" data-element_type="container">
+				<div class="elementor-element elementor-element-a2efbcd elementor-widget elementor-widget-image" data-id="a2efbcd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="388" src="wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg--1024x388.png" class="attachment-large size-large wp-image-3224" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg--1024x388.png 1024w, https://nley.in/wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg--300x114.png 300w, https://nley.in/wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg--768x291.png 768w, https://nley.in/wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg--1536x582.png 1536w, https://nley.in/wp-content/uploads/2025/07/Icici-Lombard-Logo-Vector.svg-.png 1875w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1f8cd59 e-con-full e-flex e-con e-child" data-id="1f8cd59" data-element_type="container">
+				<div class="elementor-element elementor-element-a82ea22 elementor-widget elementor-widget-image" data-id="a82ea22" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="428" src="wp-content/uploads/2025/07/24f9b6f308523cd57d723ee717e1ef88.png" class="attachment-large size-large wp-image-3225" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/24f9b6f308523cd57d723ee717e1ef88.png 1000w, https://nley.in/wp-content/uploads/2025/07/24f9b6f308523cd57d723ee717e1ef88-300x128.png 300w, https://nley.in/wp-content/uploads/2025/07/24f9b6f308523cd57d723ee717e1ef88-768x329.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9866ff0 e-con-full e-flex e-con e-child" data-id="9866ff0" data-element_type="container">
+				<div class="elementor-element elementor-element-84006e5 elementor-widget elementor-widget-image" data-id="84006e5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="302" src="wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-1024x302.png" class="attachment-large size-large wp-image-3232" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-1024x302.png 1024w, https://nley.in/wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-300x89.png 300w, https://nley.in/wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-768x227.png 768w, https://nley.in/wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-1536x453.png 1536w, https://nley.in/wp-content/uploads/2025/07/Kotak_Mahindra_Bank_logo-2048x604.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68bd18e e-con-full e-flex e-con e-child" data-id="68bd18e" data-element_type="container">
+				<div class="elementor-element elementor-element-fe16942 elementor-widget elementor-widget-image" data-id="fe16942" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="185" src="wp-content/uploads/2025/07/club-mahindra-logo.png" class="attachment-large size-large wp-image-3234" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68f82ff e-con-full e-flex e-con e-child" data-id="68f82ff" data-element_type="container">
+				<div class="elementor-element elementor-element-e12fa4e elementor-widget elementor-widget-image" data-id="e12fa4e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="225" height="89" src="wp-content/uploads/2025/07/swiggy-instamart-logo-e1752602735750.png" class="attachment-large size-large wp-image-3210" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-36cfb77 e-con-full e-flex e-con e-child" data-id="36cfb77" data-element_type="container">
+				<div class="elementor-element elementor-element-636b396 elementor-widget elementor-widget-image" data-id="636b396" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="275" height="143" src="wp-content/uploads/2025/07/radius_blue-yellow-SM.png" class="attachment-large size-large wp-image-3236" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c5f18d2 e-con-full e-flex e-con e-child" data-id="c5f18d2" data-element_type="container">
+				<div class="elementor-element elementor-element-243b330 elementor-widget elementor-widget-image" data-id="243b330" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="284" height="124" src="wp-content/uploads/2025/07/Shaadi-logo.webp" class="attachment-large size-large wp-image-3237" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-63aea70 e-con-full e-flex e-con e-child" data-id="63aea70" data-element_type="container">
+				<div class="elementor-element elementor-element-57bfea2 elementor-widget elementor-widget-image" data-id="57bfea2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="312" src="wp-content/uploads/2025/07/PhonePe_Logo.svg-1024x312.webp" class="attachment-large size-large wp-image-3235" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/PhonePe_Logo.svg-1024x312.webp 1024w, https://nley.in/wp-content/uploads/2025/07/PhonePe_Logo.svg-300x91.webp 300w, https://nley.in/wp-content/uploads/2025/07/PhonePe_Logo.svg-768x234.webp 768w, https://nley.in/wp-content/uploads/2025/07/PhonePe_Logo.svg-1536x467.webp 1536w, https://nley.in/wp-content/uploads/2025/07/PhonePe_Logo.svg-2048x623.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2eaa503 e-con-full e-flex e-con e-child" data-id="2eaa503" data-element_type="container">
+				<div class="elementor-element elementor-element-c6aaf37 elementor-widget elementor-widget-image" data-id="c6aaf37" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="412" src="wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-1024x412.png" class="attachment-large size-large wp-image-3238" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-1024x412.png 1024w, https://nley.in/wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-300x121.png 300w, https://nley.in/wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-768x309.png 768w, https://nley.in/wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-1536x617.png 1536w, https://nley.in/wp-content/uploads/2025/07/Tata_Consultancy_Services_old_logo.svg-2048x823.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68e2a50 e-con-full e-flex e-con e-child" data-id="68e2a50" data-element_type="container">
+				<div class="elementor-element elementor-element-86c9c25 elementor-widget elementor-widget-image" data-id="86c9c25" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="222" src="wp-content/uploads/2025/07/Teleperformance-1024x222.png" class="attachment-large size-large wp-image-3240" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Teleperformance-1024x222.png 1024w, https://nley.in/wp-content/uploads/2025/07/Teleperformance-300x65.png 300w, https://nley.in/wp-content/uploads/2025/07/Teleperformance-768x166.png 768w, https://nley.in/wp-content/uploads/2025/07/Teleperformance-1536x332.png 1536w, https://nley.in/wp-content/uploads/2025/07/Teleperformance-2048x443.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d327c07 e-con-full e-flex e-con e-child" data-id="d327c07" data-element_type="container">
+				<div class="elementor-element elementor-element-b96ab9d elementor-widget elementor-widget-image" data-id="b96ab9d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="806" src="wp-content/uploads/2025/07/Wipro_Primary_Logo_Color_RGB.svg-1024x806.webp" class="attachment-large size-large wp-image-3241" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Wipro_Primary_Logo_Color_RGB.svg-1024x806.webp 1024w, https://nley.in/wp-content/uploads/2025/07/Wipro_Primary_Logo_Color_RGB.svg-300x236.webp 300w, https://nley.in/wp-content/uploads/2025/07/Wipro_Primary_Logo_Color_RGB.svg-768x605.webp 768w, https://nley.in/wp-content/uploads/2025/07/Wipro_Primary_Logo_Color_RGB.svg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4831f04 e-con-full e-flex e-con e-child" data-id="4831f04" data-element_type="container">
+				<div class="elementor-element elementor-element-c7ddea6 elementor-widget elementor-widget-image" data-id="c7ddea6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="342" src="wp-content/uploads/2025/07/Zepto_Logo.svg-1024x342.png" class="attachment-large size-large wp-image-3242" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/Zepto_Logo.svg-1024x342.png 1024w, https://nley.in/wp-content/uploads/2025/07/Zepto_Logo.svg-300x100.png 300w, https://nley.in/wp-content/uploads/2025/07/Zepto_Logo.svg-768x256.png 768w, https://nley.in/wp-content/uploads/2025/07/Zepto_Logo.svg-1536x512.png 1536w, https://nley.in/wp-content/uploads/2025/07/Zepto_Logo.svg-2048x683.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cbbc7c8 e-con-full e-flex e-con e-child" data-id="cbbc7c8" data-element_type="container">
+				<div class="elementor-element elementor-element-528fdcb elementor-widget elementor-widget-image" data-id="528fdcb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="350" height="175" src="wp-content/uploads/2025/07/tata-capital-e1752602504667.png" class="attachment-large size-large wp-image-3243" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/tata-capital-e1752602504667.png 350w, https://nley.in/wp-content/uploads/2025/07/tata-capital-e1752602504667-300x150.png 300w" sizes="(max-width: 350px) 100vw, 350px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-95b9141 e-con-full e-flex e-con e-child" data-id="95b9141" data-element_type="container">
+				<div class="elementor-element elementor-element-283ffbd elementor-widget elementor-widget-heading" data-id="283ffbd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">and more</h2>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6752a67 e-con-full e-flex e-con e-parent" data-id="6752a67" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-8264624 e-con-full restricted-full-width e-flex e-con e-child" data-id="8264624" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<!-- <div class="elementor-element elementor-element-6b7a911 e-con-full e-flex e-con e-child" data-id="6b7a911" data-element_type="container">
+				<div class="elementor-element elementor-element-cd12a08 elementor-widget elementor-widget-heading" data-id="cd12a08" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Jobs openings</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c047e65 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="c047e65" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;3790&quot;,&quot;columns&quot;:3,&quot;pagination_type&quot;:&quot;load_more_on_click&quot;,&quot;_skin&quot;:&quot;post&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;load_more_spinner&quot;:{&quot;value&quot;:&quot;fas fa-spinner&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-grid.post">
+				<div class="elementor-widget-container">
+							<div class="elementor-loop-container elementor-grid" role="list">
+		<style id="loop-3790">.elementor-3790 .elementor-element.elementor-element-3b76071{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-between;--border-radius:40px 40px 40px 40px;--padding-top:20px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;}.elementor-3790 .elementor-element.elementor-element-3b76071:not(.elementor-motion-effects-element-type-background), .elementor-3790 .elementor-element.elementor-element-3b76071 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3790 .elementor-element.elementor-element-aecc014{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-between;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3790 .elementor-element.elementor-element-ee213af{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:flex-start;--gap:5px 5px;--row-gap:5px;--column-gap:5px;}.elementor-widget-theme-post-title .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-3790 .elementor-element.elementor-element-ee89455 .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:2.5rem;font-weight:700;color:#030366;}.elementor-3790 .elementor-element.elementor-element-45578e8{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3790 .elementor-element.elementor-element-835f8a5{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-theme-post-featured-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-3790 .elementor-element.elementor-element-c4f78c0 img{width:36px;height:36px;border-radius:20px 20px 20px 20px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-3790 .elementor-element.elementor-element-a4a2c7c .elementor-heading-title{font-family:"nourd", Sans-serif;font-size:1.5rem;font-weight:400;color:var( --e-global-color-secondary );}.elementor-3790 .elementor-element.elementor-element-35f35aa{--display:flex;--justify-content:center;--align-items:flex-end;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-3790 .elementor-element.elementor-element-480e4fb{column-gap:0px;text-align:right;}.elementor-3790 .elementor-element.elementor-element-480e4fb p{margin-bottom:0px;}.elementor-3790 .elementor-element.elementor-element-5866644{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-end;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-theme-post-excerpt .elementor-widget-container{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-3790 .elementor-element.elementor-element-b694b4b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--background-transition:0.7s;--border-radius:24px 24px 24px 24px;--padding-top:08px;--padding-bottom:08px;--padding-left:025px;--padding-right:08px;}.elementor-3790 .elementor-element.elementor-element-b694b4b:not(.elementor-motion-effects-element-type-background), .elementor-3790 .elementor-element.elementor-element-b694b4b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5F5F5;}.elementor-3790 .elementor-element.elementor-element-b694b4b:hover{background-color:#F1C102A8;}.elementor-3790 .elementor-element.elementor-element-fd75069.elementor-element{--align-self:center;}.elementor-3790 .elementor-element.elementor-element-fd75069{font-family:"nourd", Sans-serif;font-size:1.6rem;font-weight:400;color:#003366;}.elementor-3790 .elementor-element.elementor-element-fd75069 p{margin-bottom:0px;}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-3790 .elementor-element.elementor-element-3cfcf85 .elementor-icon-wrapper{text-align:center;}.elementor-3790 .elementor-element.elementor-element-3cfcf85.elementor-view-stacked .elementor-icon{background-color:#F1C102;}.elementor-3790 .elementor-element.elementor-element-3cfcf85.elementor-view-framed .elementor-icon, .elementor-3790 .elementor-element.elementor-element-3cfcf85.elementor-view-default .elementor-icon{color:#F1C102;border-color:#F1C102;}.elementor-3790 .elementor-element.elementor-element-3cfcf85.elementor-view-framed .elementor-icon, .elementor-3790 .elementor-element.elementor-element-3cfcf85.elementor-view-default .elementor-icon svg{fill:#F1C102;}.elementor-3790 .elementor-element.elementor-element-3cfcf85 .elementor-icon{font-size:24px;padding:6px;}.elementor-3790 .elementor-element.elementor-element-3cfcf85 .elementor-icon svg{height:24px;}.elementor-3790 .elementor-element.elementor-element-3cfcf85 .elementor-icon-wrapper svg{width:auto;}@media(max-width:767px){.elementor-3790 .elementor-element.elementor-element-35f35aa{--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-3790 .elementor-element.elementor-element-480e4fb{text-align:left;}}/* Start custom CSS for theme-post-excerpt, class: .elementor-element-2b31cc7 */.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+}/* End custom CSS */
+/* Start custom CSS for icon, class: .elementor-element-3cfcf85 */.cta-iconbox {
+    display: flex;
+    align-items: center;
+    
+}
+.cta-iconbox .elementor-icon  {
+    display: flex;
+    align-items: center;
+    
+}/* End custom CSS */</style>		<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4275 post-4275 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-full-time tag-in-office entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Opening for Sales Executive</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>Full-time</span>, <span>In-office</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/18/opening-for-sales-executive/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4269 post-4269 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-in-office tag-part-time entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Opening for a Part-Time Telecaller</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>In-office</span>, <span>Part-time</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/14/opening-for-a-part-time-telecaller/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4264 post-4264 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-full-time tag-in-office entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">CSR &#8211; Aus-Based Telecom Process</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>Full-time</span>, <span>In-office</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/06/concentrix-csr-aus-based-telecom-process/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4260 post-4260 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-full-time tag-in-office entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">CSR for Day Shift</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>Full-time</span>, <span>In-office</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/05/truemeds-customer-service-representative/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4257 post-4257 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-full-time tag-in-office entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">CSE for US-Based Telecom Process</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>Full-time</span>, <span>In-office</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/05/sutherland-cse-for-us-based-telecom-process/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="3790" class="elementor elementor-3790 e-loop-item e-loop-item-4251 post-4251 post type-post status-publish format-standard has-post-thumbnail hentry category-jobs tag-full-time tag-in-office entry has-media" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b76071 e-con-full e-flex e-con e-parent" data-id="3b76071" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-aecc014 e-con-full e-flex e-con e-child" data-id="aecc014" data-element_type="container">
+		<div class="elementor-element elementor-element-ee213af e-con-full e-flex e-con e-child" data-id="ee213af" data-element_type="container">
+				<div class="elementor-element elementor-element-ee89455 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="ee89455" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">CSE &#8211; International Process</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-45578e8 e-con-full e-flex e-con e-child" data-id="45578e8" data-element_type="container">
+		<div class="elementor-element elementor-element-835f8a5 e-con-full e-flex e-con e-child" data-id="835f8a5" data-element_type="container">
+				<div class="elementor-element elementor-element-c4f78c0 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c4f78c0" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="259" height="194" src="wp-content/uploads/2025/07/company-placeholder.png" class="attachment-large size-large wp-image-4039" alt="ND" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2c7c elementor-widget elementor-widget-heading" data-id="a4a2c7c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">ND</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35f35aa e-con-full e-flex e-con e-child" data-id="35f35aa" data-element_type="container">
+				<div class="elementor-element elementor-element-480e4fb elementor-widget elementor-widget-text-editor" data-id="480e4fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<b>Role-type: </b><span>Full-time</span>, <span>In-office</span>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5866644 e-con-full e-flex e-con e-child" data-id="5866644" data-element_type="container">
+		<a class="elementor-element elementor-element-b694b4b e-con-full e-flex e-con e-child" data-id="b694b4b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" href="2025/08/02/concentrix-cse-international-process/index.html">
+				<div class="elementor-element elementor-element-fd75069 elementor-widget elementor-widget-text-editor" data-id="fd75069" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Apply now</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3cfcf85 elementor-view-stacked cta-iconbox elementor-shape-circle elementor-widget elementor-widget-icon" data-id="3cfcf85" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_893_791)"><path d="M13.9 11C13.44 8.72 11.42 7 9 7C6.24 7 4 9.24 4 12C4 14.76 6.24 17 9 17C11.42 17 13.44 15.28 13.9 13H18.17L16.58 14.59L18 16L22 12L18 8L16.59 9.41L18.17 11H13.9Z" fill="white"></path></g><defs><clipPath id="clip0_893_791"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					<span class="e-load-more-spinner">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-spinner" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M304 48c0 26.51-21.49 48-48 48s-48-21.49-48-48 21.49-48 48-48 48 21.49 48 48zm-48 368c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm208-208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zM96 256c0-26.51-21.49-48-48-48S0 229.49 0 256s21.49 48 48 48 48-21.49 48-48zm12.922 99.078c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.491-48-48-48zm294.156 0c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.49-48-48-48zM108.922 60.922c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.491-48-48-48z"></path></svg>			</span>
+		
+				<div class="e-load-more-anchor" data-page="1" data-max-page="4" data-next-page="https://nley.in/jobs/2/"></div>
+				<div class="e-loop__load-more elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button" role="button">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Load More</span>
+					</span>
+					</a>
+		</div>
+				<div class="e-load-more-message"></div>
+						</div>
+				</div>
+				</div> -->
+				</div>
+				</div>
+		<!-- <div class="elementor-element elementor-element-4b4e46a e-con-full e-flex e-con e-parent" data-id="4b4e46a" data-element_type="container" id="post-a-job">
+		<div class="elementor-element elementor-element-80dd0cd e-con-full restricted-full-width e-flex e-con e-child" data-id="80dd0cd" data-element_type="container">
+		<div class="elementor-element elementor-element-6d9114e e-con-full e-flex e-con e-child" data-id="6d9114e" data-element_type="container">
+		<div class="elementor-element elementor-element-ffbef56 e-con-full e-flex e-con e-child" data-id="ffbef56" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-c5a8fd7 elementor-widget elementor-widget-image" data-id="c5a8fd7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="640" height="427" src="wp-content/uploads/2025/07/8d076a60097e30d0d9820dc825ddb531a685d9c6.jpg" class="attachment-large size-large wp-image-1132" alt="" srcset="https://nley.in/wp-content/uploads/2025/07/8d076a60097e30d0d9820dc825ddb531a685d9c6.jpg 640w, https://nley.in/wp-content/uploads/2025/07/8d076a60097e30d0d9820dc825ddb531a685d9c6-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c00b010 elementor-widget elementor-widget-heading" data-id="c00b010" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Post A Job</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3266a81 elementor-widget elementor-widget-heading" data-id="3266a81" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Fill a quick form to tell us about your requirements. We will post them here.</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-d37de9e e-con-full e-flex e-con e-child" data-id="d37de9e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b03f039 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b03f039" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5NzgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+											<span class="elementor-icon-list-text">Post A Job</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-dbf4d5f cta-iconbox elementor-view-default elementor-widget elementor-widget-icon" data-id="dbf4d5f" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5NzgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><g clip-path="url(#clip0_485_754)"><path d="M18 19H6C5.45 19 5 18.55 5 18V6C5 5.45 5.45 5 6 5H11C11.55 5 12 4.55 12 4C12 3.45 11.55 3 11 3H5C3.89 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V13C21 12.45 20.55 12 20 12C19.45 12 19 12.45 19 13V18C19 18.55 18.55 19 18 19ZM14 4C14 4.55 14.45 5 15 5H17.59L8.46 14.13C8.07 14.52 8.07 15.15 8.46 15.54C8.85 15.93 9.48 15.93 9.87 15.54L19 6.41V9C19 9.55 19.45 10 20 10C20.55 10 21 9.55 21 9V4C21 3.45 20.55 3 20 3H15C14.45 3 14 3.45 14 4Z" fill="#F5F5F5"></path></g><defs><clipPath id="clip0_485_754"><rect width="24" height="24" fill="white"></rect></clipPath></defs></svg>			</a>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6c3f76f e-con-full e-flex e-con e-child" data-id="6c3f76f" data-element_type="container">
+		<div class="elementor-element elementor-element-973d00e e-con-full e-flex e-con e-child" data-id="973d00e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-dde3604 elementor-widget elementor-widget-heading" data-id="dde3604" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Apply for a job</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-57f67a3 elementor-widget__width-initial elementor-widget-tablet__width-inherit myspan elementor-widget elementor-widget-heading" data-id="57f67a3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">You can directly write us at this email</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c2573da elementor-button-align-end contact-form elementor-widget elementor-widget-form" data-id="c2573da" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="1126"/>
+			<input type="hidden" name="form_id" value="c2573da"/>
+			<input type="hidden" name="referer_title" value="Jobs" />
+
+							<input type="hidden" name="queried_id" value="1126"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-33 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Full Name*" required="required">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-33 elementor-field-required elementor-mark-required">
+													<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email*" required="required">
+											</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-contact elementor-col-33 elementor-field-required elementor-mark-required">
+							<input size="1" type="tel" name="form_fields[contact]" id="form-field-contact" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Contact Number*" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
+						</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-alternate_contact elementor-col-33 elementor-field-required elementor-mark-required">
+							<input size="1" type="tel" name="form_fields[alternate_contact]" id="form-field-alternate_contact" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Alternate Number*" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
+						</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-residing_location elementor-col-66 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[residing_location]" id="form-field-residing_location" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Residing Location*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-highest_qualification elementor-col-30 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[highest_qualification]" id="form-field-highest_qualification" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Highest Qualification*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-work_exp elementor-col-20 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[work_exp]" id="form-field-work_exp" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Work Experience*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-preferred_location elementor-col-50 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[preferred_location]" id="form-field-preferred_location" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Preferred Job  Location*" required="required">
+											</div>
+								<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-drawn_salary elementor-col-30 elementor-field-required elementor-mark-required">
+								<input type="number" name="form_fields[drawn_salary]" id="form-field-drawn_salary" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Previous Drawn Salary*" required="required" min="" max="" >
+						</div>
+								<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-expected_salary elementor-col-30 elementor-field-required elementor-mark-required">
+								<input type="number" name="form_fields[expected_salary]" id="form-field-expected_salary" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Expected Salary" required="required" min="" max="" >
+						</div>
+								<div class="elementor-field-type-url elementor-field-group elementor-column elementor-field-group-linkedin_url elementor-col-40">
+													<input size="1" type="url" name="form_fields[linkedin_url]" id="form-field-linkedin_url" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Linkendin Profile Link">
+											</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-cv_url elementor-col-60 elementor-field-required elementor-mark-required">
+												<label for="form-field-cv_url" class="elementor-field-label">
+								Upload Your CV							</label>
+								<input type="file" name="form_fields[cv_url]" id="form-field-cv_url" class="elementor-field elementor-size-sm  elementor-upload-field" required="required" data-maxsize="25" data-maxsize-message="This file exceeds the maximum allowed size.">
+
+						</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+															<span class="elementor-button-icon">
+									<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none"><g clip-path="url(#clip0_170_116)"><path d="M3.9 20.4L21.35 12.92C22.16 12.57 22.16 11.43 21.35 11.08L3.9 3.60002C3.24 3.31002 2.51 3.80002 2.51 4.51002L2.5 9.12002C2.5 9.62002 2.87 10.05 3.37 10.11L17.5 12L3.37 13.88C2.87 13.95 2.5 14.38 2.5 14.88L2.51 19.49C2.51 20.2 3.24 20.69 3.9 20.4Z" fill="#F5F5F5"></path></g><defs><clipPath id="clip0_170_116"><rect width="24" height="24" fill="white" transform="translate(0.5)"></rect></clipPath></defs></svg>																	</span>
+																						<span class="elementor-button-text">Send Application</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div> -->
+		<div class="elementor-element elementor-element-dfba565 e-flex e-con-boxed e-con e-parent" data-id="dfba565" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9212381 e-con-full e-flex e-con e-child" data-id="9212381" data-element_type="container">
+		<div class="elementor-element elementor-element-5d0c5c2 e-con-full e-flex e-con e-child" data-id="5d0c5c2" data-element_type="container">
+		<div class="elementor-element elementor-element-d11fae3 e-con-full e-flex e-con e-child" data-id="d11fae3" data-element_type="container">
+				<div class="elementor-element elementor-element-e577f0d elementor-align-center elementor-tablet-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="e577f0d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Success stories</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-8a15ab7 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="8a15ab7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Hear from successfully 
+placed candidates</h3>				</div>
+				</div>
+		<div class="elementor-element elementor-element-c0c17d5 e-con-full e-flex e-con e-child" data-id="c0c17d5" data-element_type="container">
+		<div class="elementor-element elementor-element-639dbc5 e-con-full e-flex e-con e-child" data-id="639dbc5" data-element_type="container">
+				<div class="elementor-element elementor-element-7069d7a elementor-widget elementor-widget-text-editor" data-id="7069d7a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Rated 4.5 on </p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-21ad146 elementor-widget elementor-widget-image" data-id="21ad146" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="150" height="150" src="wp-content/uploads/2025/07/goole-logo-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-2570" alt="google-logo" srcset="https://nley.in/wp-content/uploads/2025/07/goole-logo-1-150x150.jpg 150w, https://nley.in/wp-content/uploads/2025/07/goole-logo-1-300x300.jpg 300w, https://nley.in/wp-content/uploads/2025/07/goole-logo-1-768x768.jpg 768w, https://nley.in/wp-content/uploads/2025/07/goole-logo-1-600x600.jpg 600w, https://nley.in/wp-content/uploads/2025/07/goole-logo-1.jpg 852w" sizes="(max-width: 150px) 100vw, 150px" />															</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2e82b2f elementor-widget elementor-widget-rating" data-id="2e82b2f" data-element_type="widget" data-widget_type="rating.default">
+				<div class="elementor-widget-container">
+							<div class="e-rating" itemtype="https://schema.org/Rating" itemscope="" itemprop="reviewRating">
+			<meta itemprop="worstRating" content="0">
+			<meta itemprop="bestRating" content="5">
+			<div class="e-rating-wrapper" itemprop="ratingValue" content="4.5" role="img" aria-label="Rated 4.5 out of 5">
+							<div class="e-icon">
+				<div class="e-icon-wrapper e-icon-marked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+				<div class="e-icon-wrapper e-icon-unmarked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+			</div>
+						<div class="e-icon">
+				<div class="e-icon-wrapper e-icon-marked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+				<div class="e-icon-wrapper e-icon-unmarked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+			</div>
+						<div class="e-icon">
+				<div class="e-icon-wrapper e-icon-marked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+				<div class="e-icon-wrapper e-icon-unmarked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+			</div>
+						<div class="e-icon">
+				<div class="e-icon-wrapper e-icon-marked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+				<div class="e-icon-wrapper e-icon-unmarked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+			</div>
+						<div class="e-icon">
+				<div class="e-icon-wrapper e-icon-marked" style="--e-rating-icon-marked-width: 50%;">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+				<div class="e-icon-wrapper e-icon-unmarked">
+					<svg aria-hidden="true" class="e-font-icon-svg e-eicon-star" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M450 75L338 312 88 350C46 354 25 417 58 450L238 633 196 896C188 942 238 975 275 954L500 837 725 954C767 975 813 942 804 896L763 633 942 450C975 417 954 358 913 350L663 312 550 75C529 33 471 33 450 75Z"></path></svg>				</div>
+			</div>
+						</div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ba3b996 e-con-full e-flex e-con e-child" data-id="ba3b996" data-element_type="container">
+				<div class="elementor-element elementor-element-ff1a4ad elementor-widget elementor-widget-elementskit-testimonial" data-id="ff1a4ad" data-element_type="widget" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="elementskit-testimonial-slider arrow_inside " data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:false,&quot;pauseOnHover&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:1000,&quot;slidesPerGroup&quot;:1,&quot;slidesPerView&quot;:1,&quot;loop&quot;:true,&quot;spaceBetween&quot;:50,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:4},&quot;768&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;1024&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:50}}}">
+	<div class="ekit-main-swiper swiper">
+		<div class="swiper-wrapper">
+						<div class="swiper-slide">
+				<div class="swiper-slide-inner">
+					<div class="elementskit-testimonial-inner" >
+						<div class="elementskit-single-testimonial-slider  ekit_testimonial_style_2">
+							<div class="elementskit-commentor-content">
+																	<p>Had a great experience with Tanushree from HR. She helped me get into Concentrix and made the whole process smooth and easy. Super helpful and friendly!</p>
+																									<span class="elementskit-border-hr"></span>
+																<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Atharwa Kharat</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+							</div>
+															<div class="elementskit-watermark-icon ">
+									<i aria-hidden="true" class="icon icon-quote"></i>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+						<div class="swiper-slide">
+				<div class="swiper-slide-inner">
+					<div class="elementskit-testimonial-inner" >
+						<div class="elementskit-single-testimonial-slider  ekit_testimonial_style_2">
+							<div class="elementskit-commentor-content">
+																	<p>ANVI Consultancy, particularly Shruti, delivered exceptional recruitment services. Their professionalism, expertise, and timely communication made the process seamless. Highly recommend!</p>
+																									<span class="elementskit-border-hr"></span>
+																<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Vidyen Kumar Nagrale</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+							</div>
+															<div class="elementskit-watermark-icon ">
+									<i aria-hidden="true" class="icon icon-quote"></i>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+						<div class="swiper-slide">
+				<div class="swiper-slide-inner">
+					<div class="elementskit-testimonial-inner" >
+						<div class="elementskit-single-testimonial-slider  ekit_testimonial_style_2">
+							<div class="elementskit-commentor-content">
+																	<p>I made an enquiry for a job with Just Dial and I got a call 📞 from an HR Recruiter Ayushi Tiwari. She sounded very polite, courteous and asked me for my permission if it is a good time to discuss your profile. This was a very professional approach on her part. Today I have an Offer Letter and a Joining Date of March 27th 2025 with a US based Tech BPO. Thanks for all your help and support Ayushi Tiwari.</p>
+																									<span class="elementskit-border-hr"></span>
+																<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Prashant Pathare</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+							</div>
+															<div class="elementskit-watermark-icon ">
+									<i aria-hidden="true" class="icon icon-quote"></i>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+						<div class="swiper-slide">
+				<div class="swiper-slide-inner">
+					<div class="elementskit-testimonial-inner" >
+						<div class="elementskit-single-testimonial-slider  ekit_testimonial_style_2">
+							<div class="elementskit-commentor-content">
+																	<p>During one of the darkest phases of my life, when I had lost hope of finding a job, Mr. Shubhum Singh stood by me like true guiding lights. Their dedication, even working past midnight to schedule interviews and prepare me, was nothing short of inspiring. While many celebrate getting jobs, few recognize the silent heroes behind the scenes. I wholeheartedly thank you both you will always be remembered in my prayers and respected for the kindness you've shown me.</p>
+																									<span class="elementskit-border-hr"></span>
+																<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Romaan Shaikh</strong>
+									<span class="elementskit-author-des">Designation</span>
+								</span>
+							</div>
+															<div class="elementskit-watermark-icon ">
+									<i aria-hidden="true" class="icon icon-quote"></i>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+					</div>
+
+		
+					<div class="swiper-navigation-button swiper-button-prev">
+				<i aria-hidden="true" class="icon icon-left-arrows"></i>			</div>
+			<div class="swiper-navigation-button swiper-button-next">
+				<i aria-hidden="true" class="icon icon-right-arrow1"></i>			</div>
+			</div>
+</div>
+</div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d21f7ec e-con-full e-flex e-con e-parent" data-id="d21f7ec" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9a062c4 e-grid e-con-full restricted-full-width e-con e-child" data-id="9a062c4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-0443e89 e-con-full e-flex e-con e-child" data-id="0443e89" data-element_type="container">
+				<div class="elementor-element elementor-element-b60fe69 elementor-align-center elementor-tablet-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="b60fe69" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">FAQs</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-1661640 elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="1661640" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Frequently Asked Questions</h3>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b15ac7c e-grid e-con-full restricted-full-width e-con e-child" data-id="b15ac7c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-fa6baf4 e-con-full e-flex e-con e-child" data-id="fa6baf4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-32beef8 e-con-full e-flex e-con e-child" data-id="32beef8" data-element_type="container">
+				<div class="elementor-element elementor-element-c119719 elementor-widget elementor-widget-heading" data-id="c119719" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">For Job Seekers</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a73364e elementor-widget elementor-widget-text-editor" data-id="a73364e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Need Help? Find Your Answers Here</p>								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f7746a elementor-widget elementor-widget-elementskit-accordion" data-id="3f7746a" data-element_type="widget" data-widget_type="elementskit-accordion.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >
+        <div class="elementskit-accordion accoedion-primary" id="accordion-68ea9bf25441c">
+
+            
+                <div class="elementskit-card active">
+                    <div class="elementskit-card-header" id="primaryHeading-0-3f7746a">
+                        <a href="#collapse-621518468ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-621518468ea9bf25441c" aria-expanded="true" aria-controls="Collapse-621518468ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">Does ANVI charge candidates any fees for job placement?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-621518468ea9bf25441c" class=" show collapse" aria-labelledby="primaryHeading-0-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Absolutely not. At ANVI, we strongly believe that seeking a job should never come at a cost. Our services for job seekers are 100% free. Our mission is to empower individuals and uplift communities—without charging a single penny.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-1-3f7746a">
+                        <a href="#collapse-294338e68ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-294338e68ea9bf25441c" aria-expanded="false" aria-controls="Collapse-294338e68ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">How do I apply for job openings through ANVI?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-294338e68ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-1-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>You can browse and apply for openings on our website's "Job Openings" section. Once you find a suitable role, submit your resume. Our recruitment specialists will review it and reach out if your profile matches. You can also simply share your CV with basic details at contact@ANVI.in </p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-2-3f7746a">
+                        <a href="#collapse-eb4795468ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-eb4795468ea9bf25441c" aria-expanded="false" aria-controls="Collapse-eb4795468ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">What industries or job roles does ANVI specialize in?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-eb4795468ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-2-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Over the years, we’ve built strong networks across all BPO, BFSI, Corporate sector. We place candidates at all levels—from entry to executive—based on your unique skills and goals.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-3-3f7746a">
+                        <a href="#collapse-a39089d68ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-a39089d68ea9bf25441c" aria-expanded="false" aria-controls="Collapse-a39089d68ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">How long does the hiring process take?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-a39089d68ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-3-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>It varies by company and role. On average, it may take 1 week from application to offer. However, we keep you updated at every stage and guide you to prepare well for interviews.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-4-3f7746a">
+                        <a href="#collapse-7eabe1668ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-7eabe1668ea9bf25441c" aria-expanded="false" aria-controls="Collapse-7eabe1668ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">Can ANVI help freshers or only experienced candidates?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-7eabe1668ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-4-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>We proudly support both! Many of our success stories began with first-time job seekers. Whether you're a fresher or an experienced professional, we work to match you with the right opportunity.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-5-3f7746a">
+                        <a href="#collapse-6a65fcf68ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-6a65fcf68ea9bf25441c" aria-expanded="false" aria-controls="Collapse-6a65fcf68ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">What if I’m not selected for a role?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-6a65fcf68ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-5-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Not being selected is never the end. We keep your profile active in our database and connect you to future opportunities. We also offer feedback to help you improve and grow professionally.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-6-3f7746a">
+                        <a href="#collapse-3dd7c8568ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-3dd7c8568ea9bf25441c" aria-expanded="false" aria-controls="Collapse-3dd7c8568ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">Can ANVI help improve my resume or interview skills?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-3dd7c8568ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-6-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Yes. We offer resume review, interview preparation, and career coaching to ensure you present your best self to potential employers. We’re here to help you succeed, not just get placed.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-7-3f7746a">
+                        <a href="#collapse-3c7f3f368ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-3c7f3f368ea9bf25441c" aria-expanded="false" aria-controls="Collapse-3c7f3f368ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">Is my personal information safe with ANVI?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-3c7f3f368ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-7-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>100%. We follow strict data privacy protocols and only share your profile with employers after your consent. Your trust is our responsibility.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-8-3f7746a">
+                        <a href="#collapse-ed980d568ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-ed980d568ea9bf25441c" aria-expanded="false" aria-controls="Collapse-ed980d568ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">How often should I follow up after applying?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-ed980d568ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-8-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>If you haven’t heard from us in 1 working day, feel free to follow up. We appreciate proactive communication and ensure transparency throughout your journey.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-9-3f7746a">
+                        <a href="#collapse-7be481d68ea9bf25441c" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-7be481d68ea9bf25441c" aria-expanded="false" aria-controls="Collapse-7be481d68ea9bf25441c">
+                            
+                            <span class="ekit-accordion-title">Why should I choose ANVI over other recruitment agencies?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-7be481d68ea9bf25441c" class=" collapse" aria-labelledby="primaryHeading-9-3f7746a" data-parent="#accordion-68ea9bf25441c">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Because we care beyond placement. At ANVI, you're not just a candidate—you’re a future builder. We work with integrity, empathy, and a deep commitment to helping you grow.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                                                        <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does ANVI charge candidates any fees for job placement?","acceptedAnswer":{"@type":"Answer","text":"<p>Absolutely not. At ANVI, we strongly believe that seeking a job should never come at a cost. Our services for job seekers are 100% free. Our mission is to empower individuals and uplift communities—without charging a single penny.</p>"}},{"@type":"Question","name":"How do I apply for job openings through ANVI?","acceptedAnswer":{"@type":"Answer","text":"<p>You can browse and apply for openings on our website's \"Job Openings\" section. Once you find a suitable role, submit your resume. Our recruitment specialists will review it and reach out if your profile matches. You can also simply share your CV with basic details at contact@ANVI.in </p>"}},{"@type":"Question","name":"What industries or job roles does ANVI specialize in?","acceptedAnswer":{"@type":"Answer","text":"<p>Over the years, we’ve built strong networks across all BPO, BFSI, Corporate sector. We place candidates at all levels—from entry to executive—based on your unique skills and goals.</p>"}},{"@type":"Question","name":"How long does the hiring process take?","acceptedAnswer":{"@type":"Answer","text":"<p>It varies by company and role. On average, it may take 1 week from application to offer. However, we keep you updated at every stage and guide you to prepare well for interviews.</p>"}},{"@type":"Question","name":"Can ANVI help freshers or only experienced candidates?","acceptedAnswer":{"@type":"Answer","text":"<p>We proudly support both! Many of our success stories began with first-time job seekers. Whether you're a fresher or an experienced professional, we work to match you with the right opportunity.</p>"}},{"@type":"Question","name":"What if I’m not selected for a role?","acceptedAnswer":{"@type":"Answer","text":"<p>Not being selected is never the end. We keep your profile active in our database and connect you to future opportunities. We also offer feedback to help you improve and grow professionally.</p>"}},{"@type":"Question","name":"Can ANVI help improve my resume or interview skills?","acceptedAnswer":{"@type":"Answer","text":"<p>Yes. We offer resume review, interview preparation, and career coaching to ensure you present your best self to potential employers. We’re here to help you succeed, not just get placed.</p>"}},{"@type":"Question","name":"Is my personal information safe with ANVI?","acceptedAnswer":{"@type":"Answer","text":"<p>100%. We follow strict data privacy protocols and only share your profile with employers after your consent. Your trust is our responsibility.</p>"}},{"@type":"Question","name":"How often should I follow up after applying?","acceptedAnswer":{"@type":"Answer","text":"<p>If you haven’t heard from us in 1 working day, feel free to follow up. We appreciate proactive communication and ensure transparency throughout your journey.</p>"}},{"@type":"Question","name":"Why should I choose ANVI over other recruitment agencies?","acceptedAnswer":{"@type":"Answer","text":"<p>Because we care beyond placement. At ANVI, you're not just a candidate—you’re a future builder. We work with integrity, empathy, and a deep commitment to helping you grow.</p>"}}]}</script>
+                                </div>
+    </div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f37dd5f e-con-full e-flex e-con e-child" data-id="f37dd5f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-71cd5ce e-con-full e-flex e-con e-child" data-id="71cd5ce" data-element_type="container">
+				<div class="elementor-element elementor-element-b3a07c6 elementor-widget elementor-widget-heading" data-id="b3a07c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">For Employers</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d1bc522 elementor-widget elementor-widget-text-editor" data-id="d1bc522" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Start Your Journey With Clarity</p>								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c7a92d4 elementor-widget elementor-widget-elementskit-accordion" data-id="c7a92d4" data-element_type="widget" data-widget_type="elementskit-accordion.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >
+        <div class="elementskit-accordion accoedion-primary" id="accordion-68ea9bf2562a4">
+
+            
+                <div class="elementskit-card active">
+                    <div class="elementskit-card-header" id="primaryHeading-0-c7a92d4">
+                        <a href="#collapse-621518468ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-621518468ea9bf2562a4" aria-expanded="true" aria-controls="Collapse-621518468ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">What makes ANVI Consultancy different from other recruitment agencies?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-621518468ea9bf2562a4" class=" show collapse" aria-labelledby="primaryHeading-0-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>At ANVI, we don’t just fill positions—we build partnerships. With deep industry knowledge and a people-first approach, we focus on quality over quantity, ensuring each candidate aligns with your culture, values, and vision. We view your success as our responsibility.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-1-c7a92d4">
+                        <a href="#collapse-294338e68ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-294338e68ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-294338e68ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Which industries and roles do you specialize in?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-294338e68ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-1-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>We cater to a wide spectrum including all sectors. From entry-level to CXO roles, we tailor recruitment solutions to your business needs—no matter the scale.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-2-c7a92d4">
+                        <a href="#collapse-eb4795468ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-eb4795468ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-eb4795468ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">What is your candidate screening process?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-eb4795468ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-2-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Every candidate undergoes a rigorous multi-step evaluation including skill assessment, background verification, cultural fit analysis, and detailed interviews. We present only those who are thoroughly vetted and aligned with your requirements.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-3-c7a92d4">
+                        <a href="#collapse-d0be86968ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-d0be86968ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-d0be86968ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">How long does it take to fill a position?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-d0be86968ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-3-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>On average, we deliver pre-screened profiles within 48–72 hours of receiving a requirement. The time to hire depends on the complexity of the role and your internal process, but we keep things fast, transparent, and efficient.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-4-c7a92d4">
+                        <a href="#collapse-62ef8f368ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-62ef8f368ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-62ef8f368ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Can you support bulk or project-based hiring?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-62ef8f368ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-4-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Absolutely. We have the capacity, experience, and tech-enabled systems to handle bulk hiring drives, project-specific recruitment, and seasonal workforce scaling, ensuring zero compromise on quality.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-5-c7a92d4">
+                        <a href="#collapse-3cb991168ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-3cb991168ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-3cb991168ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Do you offer replacement guarantees?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-3cb991168ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-5-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Yes. We stand by our placements. If a candidate doesn’t stay within the agreed clawback period, we provide a free replacement as per our service agreement.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-6-c7a92d4">
+                        <a href="#collapse-a1e8b9f68ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-a1e8b9f68ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-a1e8b9f68ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">How does your pricing model work?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-a1e8b9f68ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-6-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>We offer flexible pricing models—contingency, retainer, or project-based—based on your hiring volume, urgency, and role complexity. We ensure full transparency with no hidden costs.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-7-c7a92d4">
+                        <a href="#collapse-c0a260b68ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-c0a260b68ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-c0a260b68ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Can you assist with confidential or executive-level hiring?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-c0a260b68ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-7-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Yes. We handle executive and confidential searches with utmost discretion, tapping into our leadership network and conducting high-level candidate evaluations tailored to your strategic needs.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-8-c7a92d4">
+                        <a href="#collapse-ad6e9f968ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-ad6e9f968ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-ad6e9f968ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Do you provide value-added services beyond recruitment?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-ad6e9f968ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-8-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Indeed. We offer Staffing Services, Recruitment Process Outsourcing, Payroll Service &amp; Franchise—helping you build and retain stronger teams.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card ">
+                    <div class="elementskit-card-header" id="primaryHeading-9-c7a92d4">
+                        <a href="#collapse-f93091268ea9bf2562a4" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-f93091268ea9bf2562a4" aria-expanded="false" aria-controls="Collapse-f93091268ea9bf2562a4">
+                            
+                            <span class="ekit-accordion-title">Why should we trust ANVI with our hiring needs?</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+										<i class="icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+										<i class="icon icon-up-arrow1"></i>                                    </div>
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-f93091268ea9bf2562a4" class=" collapse" aria-labelledby="primaryHeading-9-c7a92d4" data-parent="#accordion-68ea9bf2562a4">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Because we combine heart and strategy. With over years of hiring expertise, we understand business impact, talent gaps, and market trends. Our focus is on long-term hiring success, not just short-term placements.</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                                                        <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What makes ANVI Consultancy different from other recruitment agencies?","acceptedAnswer":{"@type":"Answer","text":"<p>At ANVI, we don’t just fill positions—we build partnerships. With deep industry knowledge and a people-first approach, we focus on quality over quantity, ensuring each candidate aligns with your culture, values, and vision. We view your success as our responsibility.</p>"}},{"@type":"Question","name":"Which industries and roles do you specialize in?","acceptedAnswer":{"@type":"Answer","text":"<p>We cater to a wide spectrum including all sectors. From entry-level to CXO roles, we tailor recruitment solutions to your business needs—no matter the scale.</p>"}},{"@type":"Question","name":"What is your candidate screening process?","acceptedAnswer":{"@type":"Answer","text":"<p>Every candidate undergoes a rigorous multi-step evaluation including skill assessment, background verification, cultural fit analysis, and detailed interviews. We present only those who are thoroughly vetted and aligned with your requirements.</p>"}},{"@type":"Question","name":"How long does it take to fill a position?","acceptedAnswer":{"@type":"Answer","text":"<p>On average, we deliver pre-screened profiles within 48–72 hours of receiving a requirement. The time to hire depends on the complexity of the role and your internal process, but we keep things fast, transparent, and efficient.</p>"}},{"@type":"Question","name":"Can you support bulk or project-based hiring?","acceptedAnswer":{"@type":"Answer","text":"<p>Absolutely. We have the capacity, experience, and tech-enabled systems to handle bulk hiring drives, project-specific recruitment, and seasonal workforce scaling, ensuring zero compromise on quality.</p>"}},{"@type":"Question","name":"Do you offer replacement guarantees?","acceptedAnswer":{"@type":"Answer","text":"<p>Yes. We stand by our placements. If a candidate doesn’t stay within the agreed clawback period, we provide a free replacement as per our service agreement.</p>"}},{"@type":"Question","name":"How does your pricing model work?","acceptedAnswer":{"@type":"Answer","text":"<p>We offer flexible pricing models—contingency, retainer, or project-based—based on your hiring volume, urgency, and role complexity. We ensure full transparency with no hidden costs.</p>"}},{"@type":"Question","name":"Can you assist with confidential or executive-level hiring?","acceptedAnswer":{"@type":"Answer","text":"<p>Yes. We handle executive and confidential searches with utmost discretion, tapping into our leadership network and conducting high-level candidate evaluations tailored to your strategic needs.</p>"}},{"@type":"Question","name":"Do you provide value-added services beyond recruitment?","acceptedAnswer":{"@type":"Answer","text":"<p>Indeed. We offer Staffing Services, Recruitment Process Outsourcing, Payroll Service &amp; Franchise—helping you build and retain stronger teams.</p>"}},{"@type":"Question","name":"Why should we trust ANVI with our hiring needs?","acceptedAnswer":{"@type":"Answer","text":"<p>Because we combine heart and strategy. With over years of hiring expertise, we understand business impact, talent gaps, and market trends. Our focus is on long-term hiring success, not just short-term placements.</p>"}}]}</script>
+                                </div>
+    </div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<!-- <div class="elementor-element elementor-element-931913b e-con-full restricted-full-width e-flex e-con e-parent" data-id="931913b" data-element_type="container">
+				<div class="elementor-element elementor-element-8c55629 elementor-widget elementor-widget-spacer" data-id="8c55629" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-6a69d8e e-con-full restricted-full-width e-flex e-con e-child" data-id="6a69d8e" data-element_type="container">
+		<div class="elementor-element elementor-element-e0ebe20 e-con-full restricted-full-width e-flex e-con e-child" data-id="e0ebe20" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+		<div class="elementor-element elementor-element-2222a95 e-con-full e-flex e-con e-child" data-id="2222a95" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-89a84e9 elementor-widget elementor-widget-heading" data-id="89a84e9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Get notified when<br />new job is posted</h3>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-707ac1b e-con-full e-flex e-con e-child" data-id="707ac1b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1890c9c elementor-button-align-center elementor-widget elementor-widget-form" data-id="1890c9c" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;40&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="1126"/>
+			<input type="hidden" name="form_id" value="1890c9c"/>
+			<input type="hidden" name="referer_title" value="Jobs" />
+
+							<input type="hidden" name="queried_id" value="1126"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-60 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label">
+								Email Address							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-40 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Subscirbe</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div> -->
+				</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+<?php include __DIR__ . '/includes/footer.php'; ?>
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/oceanwp\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+ 
+		<!-- START PRELOADER -->
+		<div class="preloader">
+			<div class="spinner">
+							<div class="double-bounce1"></div>
+				<div class="double-bounce2"></div>
+						</div>
+		</div>
+		<!-- END PRELOADER -->	
+		
+	<script type="text/javascript">
+
+			/*PRELOADER JS*/
+			jQuery(window).on('load', function() {  
+				jQuery('.spinner').fadeOut();
+				jQuery('.preloader').delay(200).fadeOut('slow'); 
+			}); 
+			/*END PRELOADER JS*/	
+			
+	</script>
+
+		<div data-elementor-type="popup" data-elementor-id="2978" class="elementor elementor-2978 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInUp&quot;,&quot;exit_animation&quot;:&quot;zoomInUp&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-10852b2 e-con-full e-flex e-con e-child" data-id="10852b2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-fffd1be e-con-full e-flex e-con e-child" data-id="fffd1be" data-element_type="container">
+				<div class="elementor-element elementor-element-12fd79f elementor-widget elementor-widget-spacer" data-id="12fd79f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5251017 elementor-widget elementor-widget-heading" data-id="5251017" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Post A Job with ANVI</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7e32627 elementor-widget elementor-widget-heading" data-id="7e32627" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">You can directly share JD and other details with us at this <a href="mailto:employers@nley.in"><u>email</u></a></p>				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-82b2dd5 elementor-button-align-end contact-form elementor-widget elementor-widget-form" data-id="82b2dd5" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="2978"/>
+			<input type="hidden" name="form_id" value="82b2dd5"/>
+			<input type="hidden" name="referer_title" value="Jobs" />
+
+							<input type="hidden" name="queried_id" value="1126"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-60 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Your Full Name*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_0ebc383 elementor-col-40">
+													<input size="1" type="text" name="form_fields[field_0ebc383]" id="form-field-field_0ebc383" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Your Designation*">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required elementor-mark-required">
+													<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Work Email*" required="required">
+											</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-contact elementor-col-50 elementor-field-required elementor-mark-required">
+							<input size="1" type="tel" name="form_fields[contact]" id="form-field-contact" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Contact Number*" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
+						</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-company elementor-col-50 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[company]" id="form-field-company" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Name*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-company_location elementor-col-50 elementor-field-required elementor-mark-required">
+													<input size="1" type="text" name="form_fields[company_location]" id="form-field-company_location" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Location*" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-industry_type elementor-col-60">
+													<input size="1" type="text" name="form_fields[industry_type]" id="form-field-industry_type" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Industry Type">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-company_size elementor-col-40">
+													<input size="1" type="text" name="form_fields[company_size]" id="form-field-company_size" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Size">
+											</div>
+								<div class="elementor-field-type-url elementor-field-group elementor-column elementor-field-group-company_website elementor-col-50">
+													<input size="1" type="url" name="form_fields[company_website]" id="form-field-company_website" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Website">
+											</div>
+								<div class="elementor-field-type-url elementor-field-group elementor-column elementor-field-group-field_861bd61 elementor-col-50">
+													<input size="1" type="url" name="form_fields[field_861bd61]" id="form-field-field_861bd61" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Linkedin">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+															<span class="elementor-button-icon">
+									<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none"><g clip-path="url(#clip0_170_116)"><path d="M3.9 20.4L21.35 12.92C22.16 12.57 22.16 11.43 21.35 11.08L3.9 3.60002C3.24 3.31002 2.51 3.80002 2.51 4.51002L2.5 9.12002C2.5 9.62002 2.87 10.05 3.37 10.11L17.5 12L3.37 13.88C2.87 13.95 2.5 14.38 2.5 14.88L2.51 19.49C2.51 20.2 3.24 20.69 3.9 20.4Z" fill="#F5F5F5"></path></g><defs><clipPath id="clip0_170_116"><rect width="24" height="24" fill="white" transform="translate(0.5)"></rect></clipPath></defs></svg>																	</span>
+																						<span class="elementor-button-text">Post Job Details</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+				</div>
+				</div>
+					<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='widget-nav-menu-css' href='wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='wp-content/plugins/pro-elements/assets/css/modules/sticky.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='e-animation-slideInRight-css' href='wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='widget-off-canvas-css' href='wp-content/plugins/pro-elements/assets/css/widget-off-canvas.min415f.css?ver=3.30.0' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='wp-content/plugins/elementor/assets/css/widget-divider.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='elementor-post-2978-css' href='wp-content/uploads/elementor/css/post-2978beb9.css?ver=1760004763' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='e-animation-zoomInUp-css' href='wp-content/plugins/elementor/assets/lib/animations/styles/zoomInUp.min55cb.css?ver=3.30.3' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='wp-content/plugins/pro-elements/assets/css/conditionals/popup.min415f.css?ver=3.30.0' media='all' />
+<script src="wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"917262b37f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","loadMoreLoadingText":"Loading..."};
+</script>
+<script src="wp-content/themes/oceanwp/assets/js/theme.minfb3d.js?ver=4.0.9" id="oceanwp-main-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.minfb3d.js?ver=4.0.9" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/drop-down-search.minfb3d.js?ver=4.0.9" id="oceanwp-drop-down-search-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.minfb3d.js?ver=4.0.9" id="ow-magnific-popup-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/ow-lightbox.minfb3d.js?ver=4.0.9" id="oceanwp-lightbox-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.minfb3d.js?ver=4.0.9" id="ow-flickity-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/ow-slider.minfb3d.js?ver=4.0.9" id="oceanwp-slider-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/scroll-effect.minfb3d.js?ver=4.0.9" id="oceanwp-scroll-effect-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/scroll-top.minfb3d.js?ver=4.0.9" id="oceanwp-scroll-top-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/select.minfb3d.js?ver=4.0.9" id="oceanwp-select-js"></script>
+<script src="wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-scripta25a.js?ver=3.5.5" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://nley.in/wp-json/elementskit/v1/',
+		}
+
+		
+</script>
+<script src="wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scriptsa25a.js?ver=3.5.5" id="ekit-widget-scripts-js"></script>
+<script src="wp-content/plugins/elementor/assets/js/webpack.runtime.min55cb.js?ver=3.30.3" id="elementor-webpack-runtime-js"></script>
+<script src="wp-content/plugins/elementor/assets/js/frontend-modules.min55cb.js?ver=3.30.3" id="elementor-frontend-modules-js"></script>
+<script src="wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/nley.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/nley.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/nley.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"3ef1acdd6a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1126,"title":"Jobs%20%E2%80%93%20NLEY","excerpt":"","featuredImage":false}};
+</script>
+<script src="wp-content/plugins/elementor/assets/js/frontend.min55cb.js?ver=3.30.3" id="elementor-frontend-js"></script>
+<script src="wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min1576.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min415f.js?ver=3.30.0" id="e-sticky-js"></script>
+<script src="wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min415f.js?ver=3.30.0" id="elementor-pro-webpack-runtime-js"></script>
+<script src="wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/nley.in\/wp-admin\/admin-ajax.php","nonce":"f69db9b02b","urls":{"assets":"https:\/\/nley.in\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/nley.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/nley.in\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="wp-content/plugins/pro-elements/assets/js/frontend.min415f.js?ver=3.30.0" id="elementor-pro-frontend-js"></script>
+<script src="wp-content/plugins/pro-elements/assets/js/elements-handlers.min415f.js?ver=3.30.0" id="pro-elements-handlers-js"></script>
+<script src="wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.mina25a.js?ver=3.5.5" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https:\/\/nley.in\/wp-admin\/admin-ajax.php","nonce":"68d98af088"};
+</script>
+<script src="wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementora25a.js?ver=3.5.5" id="elementskit-elementor-js"></script>
+</body>
+
+<!-- Mirrored from nley.in/jobs/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 12 Oct 2025 07:48:39 GMT -->
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.3.0.1 on 2025-10-12 08:45:37 -->
